@@ -841,5 +841,13 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
+    terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq: {
+      protocol: "Lootopia",
+      symbol: "SDOLLAR",
+      name: "Space Dollars",
+      token: "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq",
+      icon: "https://spacedollars.money/wp-content/uploads/2021/10/spacedollars512x512.png",
+      decimals: 2
+    },
   }
 }
